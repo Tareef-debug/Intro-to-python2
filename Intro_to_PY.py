@@ -1,0 +1,5 @@
+print("My name is Tareef Toufique")
+print("My school name is South Breeze School")
+print("I am in grade 4 ")
+print("I have one brother and sister")
+print("I have alot of friends")
